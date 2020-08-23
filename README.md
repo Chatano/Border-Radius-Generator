@@ -9,17 +9,7 @@ Você deve ter o Yarn ou o Node/Npm instalado no celular
 
 ## Como testar
 
-Abra o projeto e digite:
-
-```
-yarn start
-```
-
-ou
-
-```
-node start
-```
+Abra o projeto e digite```npm install```, então aguarde a instalação dos pacotes, e digite ```node start``` no terminal
 
 ## Autor
 
